@@ -6,6 +6,7 @@ import Services from "./components/Services";
 import About from "./components/About";
 // import Prices from "./components/Prices";
 import Contact from "./components/Contact";
+import Skill  from "./components/Skils";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Banner />
       <Nav />
       <Services />
+      <Skill/>
       <About />
       {/* <Prices /> */}
       <Contact />

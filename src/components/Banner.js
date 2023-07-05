@@ -23,13 +23,13 @@ const Banner = () => {
               <div className="header__section">
                 <ul className="header__ul">
                   <li>
-                    <FaLinkedin className="headerIcon" />
+                    <a href="https://www.linkedin.com/in/ashish-yadav-057409178"> <FaLinkedin className="headerIcon" /></a>
                   </li>
                   <li>
-                    <FaFacebookF className="headerIcon" />
+                    <a href="https://www.facebook.com> </li>"> <FaFacebookF className="headerIcon" /></a>
                   </li>
                   <li>
-                    <FaTwitter className="headerIcon" />
+                    <a href="https://twitter.com/ashishk892"><FaTwitter className="headerIcon" /></a>
                   </li>
                   <li>
                     <FaPinterest className="headerIcon" />
@@ -42,8 +42,8 @@ const Banner = () => {
                 <h1>{state.title}</h1>
                 <p>{state.text}</p>
                 <div className="header__buttons">
-                  <a href="" className="btn btn-outline">
-                    My Portfolio
+                  <a href=" https:// resume links" className="btn btn-outline">
+                    My Resume
                   </a>
                   &nbsp;&nbsp;&nbsp;
                   <a href="" className="btn btn-smart">
