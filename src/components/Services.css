@@ -1,0 +1,64 @@
+.git-live{
+    display: flex;
+align-items: center;
+justify-content: space-between;
+
+margin-top: 20px;
+}
+
+.git-btn{
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 20%;
+    width: 40px;
+    height: 35px;
+    
+
+}
+
+.git-btn:hover{
+    background-color: burlywood;
+}
+
+.live-btn{
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 20%;
+    
+
+}
+
+.live-btn:hover{
+    background-color: burlywood;
+}
+
+.project-img{
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.exp{
+    background-color: wheat;
+color: rgb(22, 22, 22);
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+.exp h1{
+    color: red;
+    margin: 10px;
+}
+.exp h4{
+    color: yellow;
+    margin: 5px;
+    background-color: rgb(28, 30, 30);
+    border-radius: 5px;
+}
+.exp h2{
+    padding: 15px;
+}
+.job{
+    color:  red;
+}
